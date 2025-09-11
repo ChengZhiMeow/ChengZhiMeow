@@ -26,7 +26,11 @@
 <details open>
   <summary><h2>☕ Support My Work</h2></summary>
 
-[![](https://raw.githubusercontent.com/ChengZhiMeow/ChengZhiMeow/refs/heads/out/sponsor/afdian-sponsor.svg)](https://afdian.com/a/ChengZhiMeow)
+<div style="display: flex;">
+  <a href="https://afdian.com/a/ChengZhiMeow">
+    <picture><img src="https://raw.githubusercontent.com/ChengZhiMeow/ChengZhiMeow/refs/heads/out/sponsor/afdian-sponsor.svg"/></picture>
+  </a>
+</div>
 
 </details>
 
