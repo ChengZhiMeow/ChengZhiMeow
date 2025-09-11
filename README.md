@@ -23,7 +23,6 @@
 
 ---
 
-<details open>
   <summary><h2>☕ Support My Work</h2></summary>
 
 <div style="display: flex;">
@@ -31,8 +30,6 @@
     <picture><img src="https://raw.githubusercontent.com/ChengZhiMeow/ChengZhiMeow/refs/heads/out/sponsor/afdian-sponsor.svg"/></picture>
   </a>
 </div>
-
-</details>
 
 <details open>
   <summary><h2>📧 Contact</h2></summary>
