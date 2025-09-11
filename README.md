@@ -6,7 +6,7 @@
 
 ---
 
-<picture><img src="https://picker.me0wo.cc/murasame.png" align="right" width="256"  alt="character"/></picture>
+<picture><img src="https://picker.me0wo.cc/character" align="right" width="256"  alt="character"/></picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ChengZhiMeow&include_all_commits=true&count_private=true&show_icons=true&theme=default&hide_border=true&hide_rank=true&icon_color=4493F8&title_color=F0F6FC&text_color=9198A1&bg_color=0D1117&border_radius=16">
@@ -23,17 +23,21 @@
 
 ---
 
-  <summary><h2>☕ Support My Work</h2></summary>
-
-<div style="display: flex;">
-  <a href="https://afdian.com/a/ChengZhiMeow">
-    <picture><img src="https://raw.githubusercontent.com/ChengZhiMeow/ChengZhiMeow/refs/heads/out/sponsor/afdian-sponsor.svg"/></picture>
-  </a>
-</div>
-
 <details open>
   <summary><h2>📧 Contact</h2></summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![EMail](https://img.shields.io/badge/Email-chengzhi@chengzhimeow.cn-blue?style=flat-square&logo=gmail)](mailto:chengzhi@chengzhimeow.cn)
 
 </details>
+
+---
+
+<details open>
+  <summary><h2>☕ Support My Work</h2></summary>
+
+[![](https://raw.githubusercontent.com/ChengZhiMeow/ChengZhiMeow/refs/heads/out/sponsor/afdian-sponsor.svg)](https://afdian.com/a/ChengZhiMeow)
+
+</details>
+
+---
+Powered by [Sn0wo2](https://github.com/Sn0wo2)
