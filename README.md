@@ -25,9 +25,11 @@
 <details open>
   <summary><h2>📧 Contact</h2></summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![EMail](https://img.shields.io/badge/Email-chengzhi@chengzhimeow.cn-blue?style=flat-square&logo=gmail)](mailto:chengzhi@chengzhimeow.cn)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![EMail](https://img.shields.io/badge/Email-chengzhi@chengzhimeow.cn-F5ABB9?style=flat-square&logo=gmail)](mailto:chengzhi@chengzhimeow.cn)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![BiliBili](https://img.shields.io/badge/BiliBili-687901384-blue?style=flat-square&logo=bilibili)](https://space.bilibili.com/687901384)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![BiliBili](https://img.shields.io/badge/BiliBili-687901384-F5ABB9?style=flat-square&logo=bilibili)](https://space.bilibili.com/687901384)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Blog](https://img.shields.io/badge/Blog-橙汁喵の博客-F5ABB9?style=flat-square&logo=webpack)](https://cheng.catnies.top)
 
 </details
 
